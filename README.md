@@ -1,5 +1,6 @@
 # Learn-Django
 First Django experience with Alura. Creating an API with the framework.
+Meu primeiro projeto com Django :) Testa aí! 😊
 
 ### **Passos para execução**
 1. Clone o repositório:
